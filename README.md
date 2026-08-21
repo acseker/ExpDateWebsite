@@ -27,17 +27,27 @@
   </div>
 </div>
 
-<div align="center">
-    <div style="display:inline-flex; justify-content:center; gap:60px;">
-        <div style="width:310px; text-align:center;">
-        <sup>1</sup> University of Science and Technology<br><br>
-        <a href="https://www.ust.ac.kr/eng/"><img src="./static/assets/ust.svg" alt="UST Logo" height="50"></a>
-        </div>
-        <div style="width:310px; text-align:center;">
-        <sup>2</sup> Korea Institute of Science and Technology<br><br>
-        <a href="https://www.kist.re.kr/eng/"><img src="./static/assets/kist.svg" alt="KIST Logo" height="60"></a>
-        </div>
-    </div>
+<div style="display:table; margin:0 auto;">
+
+<table>
+  <tr>
+    <td align="center">
+      <span><sup>1</sup> University of Science and Technology</span><br>
+      <a href="https://www.ust.ac.kr/eng/">
+        <img style="max-height: 50px; height: auto; width: auto; padding-top: 5px;"
+             src="./static/assets/ust.svg"
+             alt="UST Logo">
+    </td>
+    <td align="center">
+      <span><sup>2</sup> Korea Institute of Science and Technology </span><br>
+      <a href="https://www.kist.re.kr/eng/index.do">
+      <img style="max-height: 60px; height: auto; width: auto; padding-top: 5px;"
+           src="./static/assets/kist.svg"
+           alt="KIST Logo">
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br>
