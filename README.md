@@ -7,26 +7,6 @@
 
 <sup>&#9993;</sup> Corresponding Author &emsp;
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2em; text-align: center;">
-  <div style="min-width: 150px;">
-    <span><sup>1</sup> University of Science and Technology</span><br>
-    <a href="https://www.ust.ac.kr/eng/">
-      <img style="max-height: 50px; height: auto; width: auto; padding-top: 5px;"
-           src="./static/assets/ust.svg"
-           alt="UST Logo">
-    </a>
-  </div>
-  
-  <div style="min-width: 150px;">
-    <span><sup>2</sup> Korea Institute of Science and Technology </span><br>
-    <a href="https://www.kist.re.kr/eng/index.do">
-      <img style="max-height: 60px; height: auto; width: auto; padding-top: 5px;"
-           src="./static/assets/kist.svg"
-           alt="KIST Logo">
-    </a>
-  </div>
-</div>
-
 <div style="display:table; margin:0 auto;">
 
 <table>
