@@ -5,8 +5,8 @@
 [**Ahmet Cagatay Seker**](https://acseker.github.io/acseker/)<sup>1,2</sup>&nbsp;·&nbsp;
 [**Sang Chul Ahn**](https://sites.google.com/view/asckist)<sup>1,2,&#9993;</sup>
 
-<sup>1</sup> [University of Science and Technology](https://www.ust.ac.kr/eng/) &emsp;
-<sup>2</sup> [Korea Institute of Science and Technology](https://www.kist.re.kr/eng/index.do) &emsp;
+<sup>1</sup> [University of Science and Technology](https://www.ust.ac.kr/eng/) &nbsp;&nbsp;&nbsp;&nbsp;
+<sup>2</sup> [Korea Institute of Science and Technology](https://www.kist.re.kr/eng/index.do)
 
 <sup>&#9993;</sup> Corresponding Author &emsp;
 
