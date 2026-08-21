@@ -27,6 +27,19 @@
   </div>
 </div>
 
+<div align="center">
+    <div style="display:inline-flex; justify-content:center; gap:60px;">
+        <div style="width:310px; text-align:center;">
+        <sup>1</sup> University of Science and Technology<br><br>
+        <a href="https://www.ust.ac.kr/eng/"><img src="./static/assets/ust.svg" alt="UST Logo" height="50"></a>
+        </div>
+        <div style="width:310px; text-align:center;">
+        <sup>2</sup> Korea Institute of Science and Technology<br><br>
+        <a href="https://www.kist.re.kr/eng/"><img src="./static/assets/kist.svg" alt="KIST Logo" height="60"></a>
+        </div>
+    </div>
+</div>
+
 <br>
 
 [![Elsevier ESWA](https://img.shields.io/badge/-ESWA-FF6C00?style=flat&logo=elsevier&logoColor=FF6C00&labelColor=white)](https://doi.org/10.1016/j.eswa.2022.117310)
