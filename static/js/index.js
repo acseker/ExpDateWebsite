@@ -78,7 +78,6 @@ $(document).ready(function() {
 })
 
 
-
 function copyBibTeX() {
   const bibtexText = document.querySelector('.bibtex code').innerText;
 
