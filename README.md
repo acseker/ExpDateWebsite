@@ -34,14 +34,14 @@
     <td align="center">
       <span><sup>1</sup> University of Science and Technology</span><br>
       <a href="https://www.ust.ac.kr/eng/">
-        <img style="max-height: 50px; height: auto; width: auto; padding-top: 5px;"
+        <img style="height: 50px; padding-top: 5px;"
              src="./static/assets/ust.svg"
              alt="UST Logo">
     </td>
     <td align="center">
       <span><sup>2</sup> Korea Institute of Science and Technology </span><br>
       <a href="https://www.kist.re.kr/eng/index.do">
-      <img style="max-height: 60px; height: auto; width: auto; padding-top: 5px;"
+      <img style="height: 60px; padding-top: 5px;"
            src="./static/assets/kist.svg"
            alt="KIST Logo">
     </td>
