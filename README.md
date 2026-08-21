@@ -8,7 +8,6 @@
 <sup>&#9993;</sup> Corresponding Author &emsp;
 
 <div style="display:table; margin:0 auto;">
-
 <table>
   <tr>
     <td align="center">
@@ -27,7 +26,18 @@
     </td>
   </tr>
 </table>
+</div>
 
+
+<div style="display:flex; justify-content:center; gap:40px;">
+  <div style="text-align:center;">
+    Some text 1<br/>
+    <img src="./static/assets/ust.svg" height="50" alt="Logo">
+  </div>
+  <div style="text-align:center;">
+    Some text 2<br/>
+    <img src="./static/assets/kist.svg" height="60" alt="Logo">
+  </div>
 </div>
 
 <br>
