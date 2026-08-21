@@ -7,22 +7,22 @@
 
 <sup>&#9993;</sup> Corresponding Author &emsp;
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2em; text-align: center;">
-  <div style="min-width: 150px;">
-    <span><sup>1</sup> University of Science and Technology</span><br>
+<div align="center">
+  <div style="display: inline-flex; flex-direction: column; align-items: center; vertical-align: top; margin: 0 25px;">
+    <span><sup>1</sup> University of Science and Technology</span>
     <a href="https://www.ust.ac.kr/eng/">
-      <img style="max-height: 50px; height: auto; width: auto; padding-top: 5px;"
-           src="./static/assets/ust.png"
-           alt="UST Logo">
+      <img src="./static/assets/ust.svg"
+           alt="UST Logo"
+           height="50">
     </a>
   </div>
-  
-  <div style="min-width: 150px;">
-    <span><sup>2</sup> Korea Institute of Science and Technology </span><br>
+
+  <div style="display: inline-flex; flex-direction: column; align-items: center; vertical-align: top; margin: 0 25px;">
+    <span><sup>2</sup> Korea Institute of Science and Technology</span>
     <a href="https://www.kist.re.kr/eng/index.do">
-      <img style="max-height: 60px; height: auto; width: auto; padding-top: 5px;"
-           src="./static/assets/kist.svg"
-           alt="KIST Logo">
+      <img src="./static/assets/kist.svg"
+           alt="KIST Logo"
+           height="60">
     </a>
   </div>
 </div>
