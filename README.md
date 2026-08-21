@@ -5,42 +5,10 @@
 [**Ahmet Cagatay Seker**](https://acseker.github.io/acseker/)<sup>1,2</sup>&nbsp;·&nbsp;
 [**Sang Chul Ahn**](https://sites.google.com/view/asckist)<sup>1,2,&#9993;</sup>
 
+<sup>1</sup> [University of Science and Technology](https://www.ust.ac.kr/eng/) &emsp;
+<sup>2</sup> [Korea Institute of Science and Technology](https://www.kist.re.kr/eng/index.do) &emsp;
+
 <sup>&#9993;</sup> Corresponding Author &emsp;
-
-<div style="display:table; margin:0 auto;">
-<table>
-  <tr>
-    <td align="center">
-      <span><sup>1</sup> University of Science and Technology</span><br>
-      <a href="https://www.ust.ac.kr/eng/">
-        <img style="height: 50px; padding-top: 5px;"
-             src="./static/assets/ust.svg"
-             alt="UST Logo">
-    </td>
-    <td align="center">
-      <span><sup>2</sup> Korea Institute of Science and Technology </span><br>
-      <a href="https://www.kist.re.kr/eng/index.do">
-      <img style="height: 60px; padding-top: 5px;"
-           src="./static/assets/kist.svg"
-           alt="KIST Logo">
-    </td>
-  </tr>
-</table>
-</div>
-
-
-<div style="display:flex; justify-content:center; gap:40px;">
-  <div style="text-align:center;">
-    Some text 1<br/>
-    <img src="./static/assets/ust.svg" height="50" alt="Logo">
-  </div>
-  <div style="text-align:center;">
-    Some text 2<br/>
-    <img src="./static/assets/kist.svg" height="60" alt="Logo">
-  </div>
-</div>
-
-<br>
 
 [![Elsevier ESWA](https://img.shields.io/badge/-ESWA-FF6C00?style=flat&logo=elsevier&logoColor=FF6C00&labelColor=white)](https://doi.org/10.1016/j.eswa.2022.117310)
 [![Project Page](https://img.shields.io/badge/%F0%9F%8C%90-Project%20Page-blue?style=flat)](https://felizang.github.io/expdate/)
